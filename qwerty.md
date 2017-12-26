@@ -16,5 +16,8 @@
   * Folder **_cropperjs_** along with file **_content_script.js_** lays it's impression in adding Cropping feature to screenshot and reverse-serach.
   * **_screenshot.js_** adds screenshot feature and is implemented in **_background.js_.**
   
- * 
+ * **weatherFunctionality : This folder contains index.html which features Weather Function in the Extension.** 
+ * **README.md**guides a new user about _What exactly the extension is all about?_ .It also highlight the main features of the extension and gives brief idea on _How to install Anna for the first time?_ 
+ * **background.html** acts as a container for background scripts.This is vital as because Chrome generate a simple html page to contain the js.
+ * **background.js** is a type of JS file where the main code of the extension lies.
   

@@ -24,6 +24,6 @@
 ,version(_"version": "1.1"_) and which permissions it needs as well as links to other files like icons(_"default_icon": "img/icon.png"_ and background pages.
   * **permission.html and permission.js** looks for the user's permission to access Microphone.If users fails to allow permission a popup will be displayed stating _Error : Microphone Access Required._
   * **popup.html** contains the HTML and CSS codes to build the main display of POPUP for Anna.
-  * **screenshot.html** a web page that opens as soon as user says that they are interested to take the screenshot of the screen.It also lets user to save / download the saved screenshot.
+  * **screenshot.html** a web page that opens as soon as user says that they are interested to take the screenshot of the screen.It also lets the user to save / download the saved screenshot.
   
   

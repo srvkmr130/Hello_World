@@ -6,7 +6,7 @@ To every new feature added in the Anna-Chrome Extension, first it must be declar
 
 **TO ASSIGN ANNA A NEW FEATURE**  
 To assign **_ANNA_** a new feature is pretty simple! :smiley:   
-Once you open the _background.js_ file you will find under _tasks()_ function the similar kind of _else if_ statements are used.One might take think this as a code snippet.  
+Once you open the _background.js_ file you will find under _tasks()_ function the similar kind of _else if_ statements are used.One might think this as a code snippet.  
 
 > }else if (data.result.metadata.intentName === "INTENT_NAME") {  
 > action to be performed.

@@ -20,6 +20,6 @@ The usuage of **else if** statement is for obvious reasons ,it checks for the In
 * Allot the permission in _manifest.json_ file,if the chrome operation needs any permission.
 * You are done.:+1:
                                          
-**WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU**
+**WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**
 
 

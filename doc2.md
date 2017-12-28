@@ -49,7 +49,7 @@ We all love consistency in the code.In order to tweak code or modify we ensure t
 
 If you wish to help,develop and contribute to **ANNA** follow up the below given guidelines-
 
-## Getting started
+### Getting started
 Before you get started, make sure you have:
 
   * [Installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -58,8 +58,25 @@ Before you get started, make sure you have:
 
   * Registered with a [GitHub account.](https://github.com/signup/free)
   
+### Exploring 
+
 Fork the [Anna repository](https://github.com/Anna-Assistant/Anna) on your GitHub Account and check out the [issues](https://github.com/Anna-Assistant/Anna/issues) section.  
-Pick up with any issue which you want to contribute and do comment it right there. Once, we will assign you with the issue that you picked up,pace up your strategy and get yourself ready to contribute. For any queries do not hesitate to ask via our zulip channel
+Pick up with any issue which you want to contribute and do comment it right there. Once, we will assign you with the issue that you picked up,pace up your strategy and get yourself ready to contribute. 
+For any queries, do not hesitate to shoot them across our [zulip channel](https://anna.zulipchat.com/).
+
+### Code and commit 
+Once you are done with the issue; commit the changes and send a Pull Request to us.  
+We love accepting Your Pull Requests.Once it paases the Codacy test and the  Collaborator approves your Pull Request ,you become the contributor to the Project.Contribute more ,likeways and be a part of ANNA .
+
+### Opening an issue 
+Got encountered with any issue or bug in **ANNA**?  
+Do you have suggestions for new features or improvements for **ANNA**?  
+These are all great and valid reasons for opening an issue in our [GitHub issue  
+tracker](https://github.com/Anna-Assistant/Anna/issues), where we maintain a list of issues about **ANNA** that need to be fixed. Please provide as much information and details as you can in your issue so we can address your issue  
+properly.
+ * If you're trying to report a bug, please describe the problem in depth with
+  any accompanying screenshots or links to where the bug occurred; the more
+  information that is given, the better we can diagnose the problem and fix it.
 
                                       
 **WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**

@@ -44,7 +44,24 @@ We all love consistency in the code.In order to tweak code or modify we ensure t
    >function processIt(data) {    
    
     _The function name should be relevent with the type of operation it is to be performed._  
-                                         
+
+## CONTRIBUTING  
+
+If you wish to help,develop and contribute to **ANNA** follow up the below given guidelines-
+
+## Getting started
+Before you get started, make sure you have:
+
+  * [Installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  and [Configured](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+  Git on your local machine
+
+  * Registered with a [GitHub account.](https://github.com/signup/free)
+  
+Fork the [Anna repository](https://github.com/Anna-Assistant/Anna) on your GitHub Account and check out the [issues](https://github.com/Anna-Assistant/Anna/issues) section.  
+Pick up with any issue which you want to contribute and do comment it right there. Once, we will assign you with the issue that you picked up,pace up your strategy and get yourself ready to contribute. For any queries do not hesitate to ask via our zulip channel
+
+                                      
 **WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**
 
 

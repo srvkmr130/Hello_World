@@ -19,6 +19,12 @@ The usuage of **else if** statement is for obvious reasons ,it checks for the In
 * Tweak the code and assign the desired chrome operation to it.
 * Allot the permission in _manifest.json_ file,if the chrome operation needs any permission.
 * You are done.:+1:
+
+#### NAMING CONVENTION
+We all love consistency in the code.In order to tweak code or modify we ensure that we should not get baffled amonng the thousands of code thereby we go for a particular naming convention.We are proud to say that we too follow a particular naming convention with proper indentation of code so that a new contributor does not get confused with the flow of the code amd can easily contribute to the project.
+ * **VARIABLES**
+   For variables we love to write 
+   > var byteString
                                          
 **WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**
 

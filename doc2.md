@@ -45,7 +45,7 @@ We all love consistency in the code.In order to tweak code or modify we ensure t
    
     _The function name should be relevent with the type of operation it is to be performed._  
 
-## CONTRIBUTING  
+## CONTRIBUTING [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Anna-Assistant/Anna/issues) 
 
 If you wish to help,develop and contribute to **ANNA** follow up the below given guidelines-
 

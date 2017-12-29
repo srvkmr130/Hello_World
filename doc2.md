@@ -80,6 +80,6 @@ properly.
   information that is given, the better we can diagnose the problem and fix it.
 
                                       
-**WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**
+**WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**  
 
-[![HitCount](http://hits.dwyl.io/s/Anna-Assistant/Anna.svg)](http://hits.dwyl.io/s/Anna-Assistant/Anna)
+[![HitCount](http://hits.dwyl.io/gauthamzz/Anna-Assistant/Anna.svg)](http://hits.dwyl.io/gauthamzz/Anna-Assistant/Anna)

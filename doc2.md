@@ -82,4 +82,4 @@ properly.
                                       
 **WE WOULD:heart:TO HEAR SOME INNOVATIVE FEATURES FROM YOU.**
 
-
+[![HitCount](http://hits.dwyl.io/s/Anna-Assistant/Anna.svg)](http://hits.dwyl.io/s/Anna-Assistant/Anna)

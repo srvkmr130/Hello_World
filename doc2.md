@@ -62,7 +62,7 @@ Before you get started, make sure you have:
 
 Fork the [Anna repository](https://github.com/Anna-Assistant/Anna) on your GitHub Account and check out the [issues](https://github.com/Anna-Assistant/Anna/issues) section.  
 Pick up with any issue which you want to contribute and do comment it right there. Once, we will assign you with the issue that you picked up,pace up your strategy and get yourself ready to contribute. 
-For any queries, do not hesitate to shoot them across our [zulip channel](https://anna.zulipchat.com/).
+For any queries, do not hesitate to shoot them across our [zulip channel](https://anna.zulipchat.com/).[![](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://anna.zulipchat.com/)
 
 ### Code,commit and Pull Request 
 Once you are done with the issue; commit the changes and send a Pull Request to us.  

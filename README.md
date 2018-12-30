@@ -1,4 +1,5 @@
 # Hello_world 
+[![HitCount](http://hits.dwyl.io/srvkmr130/srvkmr130/hello_world.svg)](http://hits.dwyl.io/srvkmr130/srvkmr130/hello_world)
 ---
 This is my first repository . 
 Here I would like to share my blogs which I usually write in my free time.  

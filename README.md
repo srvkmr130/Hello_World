@@ -8,6 +8,11 @@ Check out my [Resume](https://drive.google.com/open?id=1jwafQFLr31eM_7kXDEncLhJY
 I would also like to share my blogs which I usually write in my free time.  
 These blogs are published officially on Medium.  
 Hope you will :heart: it.  
+
+## Blogs :+1:
+ 1.[How I stepped into the infinite world of AI : ) Exploring Data ( :](https://medium.com/@srvkmr130/how-i-stepped-into-the-infinite-world-of-ai-exploring-data-6b9bca802876)  
+ 2.[How I stepped into the infinite world of AI : )Building ML Model ( :](https://medium.com/@srvkmr130/how-i-stepped-into-the-infinite-world-of-ai-exploring-ml-algorithms-1029cdb43b10)
+
 Active on **_Medium_** ?
 ### Don't forget to follow me :
 [![Medium](https://img.shields.io/badge/Follow-Medium-lightgreen.svg)](https://medium.com/@srvkmr130)

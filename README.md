@@ -4,7 +4,7 @@
 ---
 This is my first repository . :smiley:  
 Check out my [Resume](https://drive.google.com/open?id=1jwafQFLr31eM_7kXDEncLhJYiLrjhQoz) here !!  
-I would also like to share my blogs which I usually write in my free time.  
+I would also like to showcase my blogs which I usually write in my free time.  
 These blogs are published officially on Medium.  
 Hope you will :heart: it.  
 
